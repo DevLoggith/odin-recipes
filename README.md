@@ -1,0 +1,1 @@
+This is a recipe website project I am working on for The Odin Project. With this project I am solidifying the skills I've learned so far such as creating an html boilerplate, using proper tags (like headings, paragraph, anchor, image), how to use absolute and relative href attributes, and proper best practices for accessibility
